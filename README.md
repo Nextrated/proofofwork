@@ -59,6 +59,9 @@ https://github.com/maura-dev/Voting-Dapp/commit/e71c421e2c8a212c56e38221cae50948
 Token Minting, Updated Delegating Duties and Transfer
 https://github.com/maura-dev/Voting-Dapp/commit/8c4beab25ecb381ea39c9b3638068515cb8485b9
 
+Updated Some Tests
+https://github.com/maura-dev/Voting-Dapp/commit/5e006492fcc7cd159d4c876d8353f48bd59346f3
+
 Thank You
 
 
