@@ -4,7 +4,7 @@ This is a breakdown of my individual commits to the development of the the past 
 Project 1: FilmHouse Loyalty Token Creation and BatchTransfer
 
 Token Minting Function
-##Missing link from repo
+https://github.com/maura-dev/Team-Ace-Task/commit/439ab3a18c8d8fe080843743d3b43d462686748c
 
 Added batch transfer limit
 https://github.com/maura-dev/Team-Ace-Task/commit/5797b817bb5231b90aaca4cd28a33859d4e4128a
